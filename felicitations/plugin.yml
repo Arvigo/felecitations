@@ -1,0 +1,10 @@
+api: 
+main: src.main.java.com.arvigo.felicitations.Main
+name: Felicitations
+version: 1.0
+author: arvigo
+description: A plugin to shoot of fireworks
+commands:
+    mycommand: hiphip
+    description: Sets off Fireworks
+    usage: /hiphip
